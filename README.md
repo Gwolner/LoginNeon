@@ -1,12 +1,11 @@
 # Login neon
 
-> Aperfeiçoamento do login neon da Web Tutorials.
-
+> Aperfeiçoamento do login néon da Web Tutorials através de ajustes na interatividade dos campos usuário e senha, além da alteração de comportamento do efeito luminoso entorno do botão enviar.
 
 ## Comparativo
 
-Original (Codepen): [link](https://codepen.io/WebTutorials/pen/abdyENw?fbclid=IwAR2zDtuG31_9X4IHSN7C0EsMymT41VCbShmN4ga9tIyGJ3BZBGNFsofsM_c)
+Original: [Codepen](https://codepen.io/WebTutorials/pen/abdyENw?fbclid=IwAR2zDtuG31_9X4IHSN7C0EsMymT41VCbShmN4ga9tIyGJ3BZBGNFsofsM_c)
 
-Melhorado (Este repositório): [link](https://gwolner.github.io/login-neon-submit/)
+Melhorado: [Repositório](https://gwolner.github.io/login-neon-submit)
 
 ## Melhorias
